@@ -4,7 +4,7 @@ title: 韩亚航空旧金山空难
 ---
 #{{ page.title }}
 
-![Alt text](/path/to/img.jpg)
+![Alt text](../img/oz214.jpg)
 
 这是“数据说话”的第一篇文章，却是关于空难的，写起来心情就不怎么轻松。
 
