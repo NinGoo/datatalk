@@ -1,0 +1,16 @@
+---
+layout:           default
+---
+<link rel="stylesheet" href="/js/prettify/prettify.css" />
+<div class="index-content blog">
+  <div class="section">
+    <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
+    <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
+
+    <div class="entry-content">
+      {{ content }}
+    </div>
+  </div>
+  <div class="aside">
+  </div>
+</div>
