@@ -76,9 +76,9 @@ pre ol{margin-left:25px;list-style-type:decimal;}
     background-image:url('https://d233eq3e3p3cv0.cloudfront.net/max/1000/0*kTUZamBulGQZg1MW.jpeg')
 }
 
-.index-content .section { margin-left:30%; padding-top:80px; padding-right:2%; ;}
+.index-content .section { margin-left:30%; padding-top:70px; padding-right:2%; ;}
 .index-content .artical-list,.index-content .entry-content { width:85%; margin:0 auto; }
-.index-content .artical-list li { margin-bottom:70px; }
+.index-content .artical-list li { margin-bottom:30px; }
 .index-content h2 { font-size:20px; margin-bottom:15px; }
 .index-content h2 a { color:#444 }
 .index-content h2 a:hover { color:#E50053; text-decoration:none; }
@@ -91,7 +91,7 @@ pre ol{margin-left:25px;list-style-type:decimal;}
 .index-content .artical-cate li a:hover { text-decoration:none; }
 .index-content .artical-cate li.on span{ color:red; }
 
-.index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:100px; }
+.index-content .cate-bar { height:3px; width:70%; margin:0 auto;margin-bottom:60px; }
 .index-content #cateBar { display:inline-block; zoom:1; height:3px; background:red; position:relative; width:0; }
 
 .home-menu { position:fixed; top:15px; left:20px; z-index:5; font-size:0; }
