@@ -4,7 +4,7 @@ title: 移动出租车
 description: 向那些改变行业和生活方式的产品，以及做这些产品的人，致敬！ 
 ---
 
-![Alt text](../img/taxi.jpg)
+![Alt text](http://pic.yupoo.com/ningoo/D0TZ4vsV/S0TCi.png)
 
 今天主要记录一下从福州回杭州的路上打车的一点经历。
 

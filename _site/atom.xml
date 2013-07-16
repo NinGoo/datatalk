@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-   <title>DataTalk.com</title>
-   <link href="http://datatalk.com/atom.xml" rel="self" type="application/atom+xml"/>
-   <link href="http://datatalk.com" rel="alternate" type="text/html" />
-   <updated>2013-07-15T22:27:31+08:00</updated>
-   <id>http://datatalk.com</id>
+   <title>DataShuo.com</title>
+   <link href="http://datashuo.com/atom.xml" rel="self" type="application/atom+xml"/>
+   <link href="http://datashuo.com" rel="alternate" type="text/html" />
+   <updated>2013-07-16T10:25:45+08:00</updated>
+   <id>http://datashuo.com</id>
    <author>
      <name></name>
      <email></email>
@@ -136,7 +136,7 @@ iPad Q2：390&lt;/p&gt;&lt;/blockquote&gt;
      <link href="http://beiyuu.com/ICBC-under-bigdata.html"/>
      <updated>2013-07-09T00:00:00+08:00</updated>
      <id>http://beiyuu.com/ICBC-under-bigdata</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;../img/icdc.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TPtcG7/p1roB.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这是“数据说话”的第二篇文章，还是关于灾难的，这次是IT系统灾难。&lt;/p&gt;
 

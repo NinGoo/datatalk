@@ -4,7 +4,7 @@ title: 韩亚航空旧金山空难
 description: 这是波音777机型首次发生有人员遇难的事故。从1995.5.17首架波音777交付以来，算上这次一共只发生过两次空难，从数据上可以说是最安全的机型之一 
 ---
 
-![Alt text](../img/oz214.jpg)
+![Alt text](http://pic.yupoo.com/ningoo/D0TPt6Wg/medish.jpg)
 
 这是“数据说话”的第一篇文章，却是关于空难的，写起来心情就不怎么轻松。
 
