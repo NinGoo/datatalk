@@ -59,5 +59,4 @@ description: 故障不可怕，可怕的是对故障视而不见，推脱责任�
 题图：据传是工行内部通告的截图
 
 扩展阅读：
-[1] 如何升级 DB2 到 V10.1
-http://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207qianx/
+[1] [如何升级 DB2 到 V10.1](http://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207qianx/)
