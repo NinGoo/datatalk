@@ -4,7 +4,7 @@ title: 大数据下的工行
 description: 故障不可怕，可怕的是对故障视而不见，推脱责任，找替罪羊。 
 ---
 
-![Alt text](http://pic.yupoo.com/ningoo/D0TPtcG7/p1roB.jpg)
+![大数据下的工行](http://pic.yupoo.com/ningoo/D0TPtcG7/p1roB.jpg)
 
 这是“数据说话”的第二篇文章，还是关于灾难的，这次是IT系统灾难。
 

@@ -4,7 +4,7 @@
    <title>DataShuo.com</title>
    <link href="http://datashuo.com/atom.xml" rel="self" type="application/atom+xml"/>
    <link href="http://datashuo.com" rel="alternate" type="text/html" />
-   <updated>2013-07-16T10:25:45+08:00</updated>
+   <updated>2013-07-16T11:34:42+08:00</updated>
    <id>http://datashuo.com</id>
    <author>
      <name></name>
@@ -17,7 +17,7 @@
      <link href="http://beiyuu.com/app-data.html"/>
      <updated>2013-07-13T00:00:00+08:00</updated>
      <id>http://beiyuu.com/app-data</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;../img/appdata.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TYtVWb/medish.jpg&quot; alt=&quot;无线客户端数据实战&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;今天是2013阿里技术嘉年华第一天，现场的火热程度，就像这头伏第一天一样，被一股热浪包围着。&lt;/p&gt;
 
@@ -75,7 +75,7 @@ iPad Q2：390&lt;/p&gt;&lt;/blockquote&gt;
      <link href="http://beiyuu.com/mobile-taxi.html"/>
      <updated>2013-07-10T00:00:00+08:00</updated>
      <id>http://beiyuu.com/mobile-taxi</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;../img/taxi.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TZ4vsV/S0TCi.png&quot; alt=&quot;移动出租车&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;今天主要记录一下从福州回杭州的路上打车的一点经历。&lt;/p&gt;
 
@@ -136,7 +136,7 @@ iPad Q2：390&lt;/p&gt;&lt;/blockquote&gt;
      <link href="http://beiyuu.com/ICBC-under-bigdata.html"/>
      <updated>2013-07-09T00:00:00+08:00</updated>
      <id>http://beiyuu.com/ICBC-under-bigdata</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TPtcG7/p1roB.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TPtcG7/p1roB.jpg&quot; alt=&quot;大数据下的工行&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这是“数据说话”的第二篇文章，还是关于灾难的，这次是IT系统灾难。&lt;/p&gt;
 
@@ -197,8 +197,7 @@ iPad Q2：390&lt;/p&gt;&lt;/blockquote&gt;
 &lt;p&gt;题图：据传是工行内部通告的截图&lt;/p&gt;
 
 &lt;p&gt;扩展阅读：
-[1] 如何升级 DB2 到 V10.1
-http://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207qianx/&lt;/p&gt;
+[1] &lt;a href=&quot;http://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207qianx/&quot;&gt;如何升级 DB2 到 V10.1&lt;/a&gt;&lt;/p&gt;
 </content>
    </entry>
    
@@ -207,7 +206,7 @@ http://www.ibm.com/developerworks/cn/data/library/techarticle/dm-1207qianx/&lt;/
      <link href="http://beiyuu.com/asiana-airlines-oz214-crashed-in-SFO.html"/>
      <updated>2013-07-08T00:00:00+08:00</updated>
      <id>http://beiyuu.com/asiana-airlines-oz214-crashed-in-SFO</id>
-     <content type="html">&lt;p&gt;&lt;img src=&quot;../img/oz214.jpg&quot; alt=&quot;Alt text&quot; /&gt;&lt;/p&gt;
+     <content type="html">&lt;p&gt;&lt;img src=&quot;http://pic.yupoo.com/ningoo/D0TPt6Wg/medish.jpg&quot; alt=&quot;韩亚航空旧金山空难&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;这是“数据说话”的第一篇文章，却是关于空难的，写起来心情就不怎么轻松。&lt;/p&gt;
 
