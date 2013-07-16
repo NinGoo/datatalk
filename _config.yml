@@ -5,7 +5,6 @@ pygments: true
 paginate: 8
 permalink: /:title.html
 
-title: DataTalk.com
-url: http://datatalk.com
+title: DataShuo.com
+url: http://datashuo.com
 feed: /atom.xml
-author_info: <a href="http://beiyuu.com/">BeiYuu</a>
