@@ -5,6 +5,6 @@ pygments: true
 paginate: 8
 permalink: /:title.html
 
-title: DataShuo.com
+title: 数据说话
 url: http://datashuo.com
 feed: /atom.xml
