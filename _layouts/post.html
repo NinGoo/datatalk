@@ -5,13 +5,26 @@ layout:           default
 <div class="index-content blog">
   <div class="section">
     <h1 class="entry-title"><a href="{{ page.url }}" title="{{ page.title }}">{{ page.title }}</a></h1>
-    <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}</p>
-
+    <p class="entry-date">{{ page.date|date:"%Y-%m-%d" }}
+    <a href="#respond"><span class="ds-thread-count" data-thread-key="{{ page.id }}" data-count-type="comments"></span></a>
+<!-- 多说js加载开始，一个页面只需要加载一次 -->
+<script type="text/javascript">
+var duoshuoQuery = {short_name:"您的二级域名"};
+(function() {
+    var ds = document.createElement('script');
+    ds.type = 'text/javascript';ds.async = true;
+    ds.src = 'http://static.duoshuo.com/embed.js';
+    ds.charset = 'UTF-8';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ds);
+})();
+</script>
+<!-- 多说js加载结束，一个页面只需要加载一次 -->
+   </p>
     <div class="entry-content">
       {{ content }}
     
     <!-- Duoshuo Comment BEGIN -->
-        <div class="ds-thread"></div>
+        <div class="ds-thread" data-thread-key="{{ page.id }}" data-title="{{ page.title }}"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"datashuo"};
         (function() {
